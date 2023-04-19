@@ -1,10 +1,12 @@
 body {
+text-align: center;
 color: blue;
 background-color: black;
 font-size: 10px;
 }
 
 h1 {
+text-align: center;
 color: blue;
 background-color: black;
 font-size: 10px;
